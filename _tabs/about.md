@@ -8,7 +8,7 @@ order: 3
 
 I am a soon-to-be graduate eagerly embarking on a journey into the dynamic realm of cybersecurity. 
 <br>
-I am passionate about exploring this ever-evolving field and my dedication lies in building expertise, sharpening my skills, and making meaningful contributions to secure digital environments.
+I am passionate about exploring this ever-evolving field and my dedication lies in sharpening my skills, and making meaningful contributions to secure digital environments.
 <br><br>
-I am always open to new opportunities, collaborations, and discussions in the exciting world of cybersecurity.<br>
+I am open to new opportunities and collaborations.<br>
 Feel free to connect with me on [``LinkedIn``](https://www.linkedin.com/in/sanya-k/), or reach out to me via [``email``](mailto:sanya.kausha@gmail.com). 
